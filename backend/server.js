@@ -19,5 +19,6 @@ res.json(movies[category] || []);
 
 
 app.listen(3000, () => {
+module.exports = app;
 console.log('✅ Backend running on http://localhost:3000');
 });

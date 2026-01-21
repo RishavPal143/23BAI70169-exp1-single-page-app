@@ -1,9 +1,0 @@
-[build]
-  base = "."                 # run npm commands from repo root
-  command = "npm run build"  # build command defined in root package.json
-  publish = "frontend/dist" 
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
