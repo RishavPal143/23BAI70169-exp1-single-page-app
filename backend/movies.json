@@ -1,0 +1,16 @@
+{
+"trending": [
+{"title": "Money Heist", "year": "2017", "rating": "8.2", "img": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg"},
+{"title": "Dark", "year": "2019", "rating": "8.7", "img": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg"},
+{"title": "Wednesday", "year": "2022", "rating": "8.1", "img": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg"}
+],
+"action": [
+
+{"title": "Extraction", "year": "2020", "rating": "6.8", "img": "https://image.tmdb.org/t/p/w500/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg"},
+{"title": "Mad Max", "year": "2015", "rating": "8.1", "img": "https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg"}
+],
+"romance": [
+{"title": "Titanic", "year": "1997", "rating": "7.9", "img": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"},
+{"title": "La La Land", "year": "2016", "rating": "8.0", "img": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"}
+]
+}

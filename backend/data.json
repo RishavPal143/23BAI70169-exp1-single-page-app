@@ -1,0 +1,14 @@
+{
+"trending": [
+{"title": "Dark", "img": "https://via.placeholder.com/200x120"},
+{"title": "Money Heist", "img": "https://via.placeholder.com/200x120"}
+],
+"action": [
+{"title": "Extraction", "img": "https://via.placeholder.com/200x120"},
+{"title": "John Wick", "img": "https://via.placeholder.com/200x120"}
+],
+"romance": [
+{"title": "Notebook", "img": "https://via.placeholder.com/200x120"},
+{"title": "Titanic", "img": "https://via.placeholder.com/200x120"}
+]
+}
